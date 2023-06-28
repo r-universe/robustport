@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "facmodCS"]
 	path = facmodCS
 	url = https://github.com/robustport/facmodcs
-	shallow = true
-	registered = true
