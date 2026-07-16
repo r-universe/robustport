@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PCRA"]
+	path = PCRA
+	url = https://github.com/robustport/pcra
 [submodule "facmodCS"]
 	path = facmodCS
 	url = https://github.com/robustport/facmodcs
